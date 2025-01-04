@@ -31,7 +31,7 @@ num2 = 4
 sum_result = num1 + num2
 difference_result = num1 - num2
 division_result = num1 / num2
-integer_division_result = num1 // num2
+integer_division_result = num1 // num2 # Floor division (divides and rounds down to nearest integer
 exponentiation_result = num1 ** num2
 modulo_result = num1 % num2
 
